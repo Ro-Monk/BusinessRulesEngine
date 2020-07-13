@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30128.74
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BLL", "BLL\BLL.csproj", "{A9D3C1AC-0472-43FA-8B4E-84D3E788A9B3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BLLUnitTest", "..\BLLUnitTest\BLLUnitTest.csproj", "{FD729781-B79A-418C-A7AB-0A2D3E2123AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A9D3C1AC-0472-43FA-8B4E-84D3E788A9B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9D3C1AC-0472-43FA-8B4E-84D3E788A9B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9D3C1AC-0472-43FA-8B4E-84D3E788A9B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9D3C1AC-0472-43FA-8B4E-84D3E788A9B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD729781-B79A-418C-A7AB-0A2D3E2123AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD729781-B79A-418C-A7AB-0A2D3E2123AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD729781-B79A-418C-A7AB-0A2D3E2123AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD729781-B79A-418C-A7AB-0A2D3E2123AA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {078DA060-69F6-4D03-BC89-7ADDDEF7CD0A}
+	EndGlobalSection
+EndGlobal

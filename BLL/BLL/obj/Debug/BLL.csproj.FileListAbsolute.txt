@@ -1,0 +1,6 @@
+D:\Lab\Coding\Test\Maersk\PaymentApp\BLL\BLL\bin\Debug\BLL.dll
+D:\Lab\Coding\Test\Maersk\PaymentApp\BLL\BLL\bin\Debug\BLL.pdb
+D:\Lab\Coding\Test\Maersk\PaymentApp\BLL\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\Lab\Coding\Test\Maersk\PaymentApp\BLL\BLL\obj\Debug\BLL.dll
+D:\Lab\Coding\Test\Maersk\PaymentApp\BLL\BLL\obj\Debug\BLL.pdb
+D:\Lab\Coding\Test\Maersk\PaymentApp\BLL\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
